@@ -1,0 +1,45 @@
+  .navbar.is-rel8 {
+    background-color: #8b52ff;
+    color: #ffde5a; }
+    .navbar.is-rel8 .navbar-brand > .navbar-item,
+    .navbar.is-rel8 .navbar-brand .navbar-link {
+      color: #ffde5a; }
+    .navbar.is-rel8 .navbar-brand > a.navbar-item:focus, .navbar.is-rel8 .navbar-brand > a.navbar-item:hover, .navbar.is-rel8 .navbar-brand > a.navbar-item.is-active,
+    .navbar.is-rel8 .navbar-brand .navbar-link:focus,
+    .navbar.is-rel8 .navbar-brand .navbar-link:hover,
+    .navbar.is-rel8 .navbar-brand .navbar-link.is-active {
+      background-color: #7035e7;
+      color: #ffde5a; }
+    .navbar.is-rel8 .navbar-brand .navbar-link::after {
+      border-color: #ffde5a; }
+    .navbar.is-rel8 .navbar-burger {
+      color: #ffde5a; }
+    @media screen and (min-width: 1024px) {
+      .navbar.is-rel8 .navbar-start > .navbar-item,
+      .navbar.is-rel8 .navbar-start .navbar-link,
+      .navbar.is-rel8 .navbar-end > .navbar-item,
+      .navbar.is-rel8 .navbar-end .navbar-link {
+        color: #ffde5a; }
+      .navbar.is-rel8 .navbar-start > a.navbar-item:focus, .navbar.is-rel8 .navbar-start > a.navbar-item:hover, .navbar.is-rel8 .navbar-start > a.navbar-item.is-active,
+      .navbar.is-rel8 .navbar-start .navbar-link:focus,
+      .navbar.is-rel8 .navbar-start .navbar-link:hover,
+      .navbar.is-rel8 .navbar-start .navbar-link.is-active,
+      .navbar.is-rel8 .navbar-end > a.navbar-item:focus,
+      .navbar.is-rel8 .navbar-end > a.navbar-item:hover,
+      .navbar.is-rel8 .navbar-end > a.navbar-item.is-active,
+      .navbar.is-rel8 .navbar-end .navbar-link:focus,
+      .navbar.is-rel8 .navbar-end .navbar-link:hover,
+      .navbar.is-rel8 .navbar-end .navbar-link.is-active {
+        background-color: #7035e7;
+        color: #ffde5a; }
+      .navbar.is-rel8 .navbar-start .navbar-link::after,
+      .navbar.is-rel8 .navbar-end .navbar-link::after {
+        border-color: #ffde5a; }
+      .navbar.is-rel8 .navbar-item.has-dropdown:focus .navbar-link,
+      .navbar.is-rel8 .navbar-item.has-dropdown:hover .navbar-link,
+      .navbar.is-rel8 .navbar-item.has-dropdown.is-active .navbar-link {
+        background-color: #7035e7;
+        color: #ffde5a; }
+      .navbar.is-rel8 .navbar-dropdown a.navbar-item.is-active {
+        background-color: #8b52ff;
+        color: #ffde5a; } }
