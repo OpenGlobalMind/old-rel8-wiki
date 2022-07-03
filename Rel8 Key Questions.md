@@ -1,5 +1,4 @@
 # Rel8 Key Questions
-
 - [[How Can Rel8 Appeal to Normal Citizens]]?
 - [[How Do Neighboring Projects Fit With Rel8]]?
 - How Do We Bake Diversity into OGM and Rel8?
