@@ -1,5 +1,7 @@
 # Rel8 Projects
+## [[Hyphal Explorations]]
 ## [[Tools for Thinking Camp]]
-## [[Where Is the Big Fungus]]?
+## [[Turbocharging Pattern Languages]]
+## [[Feeding the Big Fungus]]
 
 ## [[Tiles]] (small projects)
