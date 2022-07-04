@@ -1,5 +1,7 @@
 # Rel8 Pioneers
+
 People who have been solving large portions of the Rel8 quest out of frustration, inspiration or curiosity include:
+
 - Flancian's Agora
 - Zsolt's Excalidraw Brain 
 - Rich's DXOS
