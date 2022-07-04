@@ -4,7 +4,8 @@ Rel8 is about how we relate observations, insights and evidence, all as a way of
 
 If we don't do this, we'll remain mired in partisan political gridlock, which will get uglier and take our attention off dealing with existing global crises to create a better world. 
 
-For a description of how this might unfold, see [[Rel8 Goals]].
+### For a description of how this might unfold, see [[Rel8 Goals]].
+## [[Rel8's Mosaic]] (vision)
 ## Who Is Involved
 
 
