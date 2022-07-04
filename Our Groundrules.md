@@ -1,4 +1,4 @@
 # Our Groundrules
-## Code of Conduct
-## 
-## The Generative Commons Agreement
+## [[Rel8 Code of Conduct]]
+## [[Writing Style for This Project]]
+## The [[Generative Commons Agreement]]
