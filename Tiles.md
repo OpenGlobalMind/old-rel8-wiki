@@ -13,4 +13,6 @@ Here's a table of our Tiles, finished and proposed:
 | [[Brainy McBrainface]]          | [[Bentley Davis]]       | Finished | link           |                 |
 | [[Tile - Rendering Excalidraw]] | ??                      | Proposed |                |                 |
 | Updating JB                     | [[Marc-Antoine Parent]] | Proposed |                |                 |
-| [[Spider Diagrams]]                 | ??                      | Proposed         |                |                 |
+| [[Spider Diagrams]]             | ??                      | Proposed |                |                 |
+| Importing JB into Zsolt's Brain | [[Zsolt Viczian]]       | Proposed |                |                 |
+| [[Tile - 1-2-4-All Zoom App]]                  | ??                      | Proposed         |                |                 |

@@ -11,7 +11,7 @@ You can find other flotilla members' office hours [here](https://wiki.openglobal
 ## Jerry's Schedule
 | Date            | Working on                       | Link |
 | --------------- | -------------------------------- | ---- |
-| July 4, 10am PT | Rel8: Build out the Rel8 wiki    | link     |
+| July 4, 10am PT | Rel8: Build out the Rel8 wiki    | [On YouTube](https://www.youtube.com/watch?v=iNFl5RFspSA)     |
 | July 5, 3pm PT  | Rel8: Vision video brainstorming |      |
 | July 6, 10am PT | Think Camp: Definitions          |      |
 | July 7, 2pm PT  | Rel8:                            |      |

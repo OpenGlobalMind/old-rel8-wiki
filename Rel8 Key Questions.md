@@ -5,7 +5,7 @@
 - How to Crowdsource as Much of Rel8 as Possible
 	- How Do We Scope, Describe and Commission Tiles in the Mosaic?
 	- How to Motivate Companies and Individuals to Feed the Fungus?
-- How to Illustrate the Rel8 Vision and Benefits
+- [[How to Illustrate the Rel8 Vision and Benefits]]
 - What Biz/Org Structure Will Let OGM and Rel8 Treat Participants Well and Host For-Profit Projects?
 - What Is the Simplest Way to Spark a Rel8 Movement?
 	- How to Motivate Companies and Individuals to Feed the Fungus?
