@@ -11,8 +11,9 @@ Here's a table of our Tiles, finished and proposed:
 | ------------------------------- | ----------------------- | -------- | -------------- | --------------- |
 | [[MemeBrain]]                   | [[Marc-Antoine Parent]] | Finished | link goes here | FJB, OGM, Rel8  |
 | [[Brainy McBrainface]]          | [[Bentley Davis]]       | Finished | link           |                 |
+| Multiple improvements to Massive Wiki                       | [[Pete Kaminski]]           | Finished | link               |                 |
 | [[Tile - Rendering Excalidraw]] | ??                      | Proposed |                |                 |
 | Updating JB                     | [[Marc-Antoine Parent]] | Proposed |                |                 |
 | [[Spider Diagrams]]             | ??                      | Proposed |                |                 |
 | Importing JB into Zsolt's Brain | [[Zsolt Viczian]]       | Proposed |                |                 |
-| [[Tile - 1-2-4-All Zoom App]]                  | ??                      | Proposed         |                |                 |
+| [[Tile - 1-2-4-All Zoom App]]   | ??                      | Proposed |                |                 |

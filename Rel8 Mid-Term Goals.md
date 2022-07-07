@@ -1,9 +1,10 @@
 # Rel8 Mid-Term Goals
 What will it take to create a large-scale shared memory that:
 
-- Is crowdsourced
+- Is crowdsourced like Wikipedia
 - Allows participants to use multiple memory- and context-making tools
 - Allows participants to express their own points of view
+- Encourages "crystallizing" points of view
 
 
 Here are Rel8's [[Rel8 Short-Term Goals|Short-Term]] and [[Rel8 Long-Term Goals|Long-Term]] Goals. 
