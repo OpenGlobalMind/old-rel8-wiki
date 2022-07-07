@@ -7,13 +7,13 @@ A good Tile serves several projects, solving a problem they share in a general w
 
 Here's a table of our Tiles, finished and proposed:
 
-| Tile Name                       | Author(s)               | Status   | Link           | Projects Served |
-| ------------------------------- | ----------------------- | -------- | -------------- | --------------- |
-| [[MemeBrain]]                   | [[Marc-Antoine Parent]] | Finished | link goes here | FJB, OGM, Rel8  |
-| [[Brainy McBrainface]]          | [[Bentley Davis]]       | Finished | link           |                 |
-| Multiple improvements to Massive Wiki                       | [[Pete Kaminski]]           | Finished | link               |                 |
-| [[Tile - Rendering Excalidraw]] | ??                      | Proposed |                |                 |
-| Updating JB                     | [[Marc-Antoine Parent]] | Proposed |                |                 |
-| [[Spider Diagrams]]             | ??                      | Proposed |                |                 |
-| Importing JB into Zsolt's Brain | [[Zsolt Viczian]]       | Proposed |                |                 |
-| [[Tile - 1-2-4-All Zoom App]]   | ??                      | Proposed |                |                 |
+| Tile Name                             |  Description   | Author(s)               | Status   | Link           | Projects Served |
+| ------------------------------------- | --- | ----------------------- | -------- | -------------- | --------------- |
+| [[MemeBrain]]                         | API for Jerry's Brain    | [[Marc-Antoine Parent]] | Finished | link goes here | FJB, OGM, Rel8  |
+| [[Brainy McBrainface]]                |     | [[Bentley Davis]]       | Finished | link           |                 |
+| Multiple improvements to Massive Wiki |     | [[Pete Kaminski]]       | Finished | link           |                 |
+| [[Tile - Rendering Excalidraw]]       |     | ??                      | Proposed |                |                 |
+| Updating JB                           |     | [[Marc-Antoine Parent]] | Proposed |                |                 |
+| [[Spider Diagrams]]                   |     | ??                      | Proposed |                |                 |
+| Importing JB into Zsolt's Brain       |     | [[Zsolt Viczian]]       | Proposed |                |                 |
+| [[Tile - 1-2-4-All Zoom App]]         |     | ??                      | Proposed |                |                 |
