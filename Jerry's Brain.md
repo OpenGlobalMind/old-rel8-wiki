@@ -1,0 +1,2 @@
+# Jerry's Brain
+[[Jerry Michalski|Jerry]] spent a dozen years as a tech-industry trends analyst. One of the 4,000 software vendors who pitched him their wares (hoping he would write about them) had mind-mapping software called TheBrain. 

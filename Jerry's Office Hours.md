@@ -14,8 +14,9 @@ You can find other flotilla members' office hours [here](https://wiki.openglobal
 | July 4, 10am PT | Rel8: Build out the Rel8 wiki    | [On YouTube](https://www.youtube.com/watch?v=iNFl5RFspSA) |
 | July 5, 3pm PT  | Rel8: Vision video brainstorming | [On YouTube](https://youtu.be/4-Jp7Nmh9nI)                |
 | July 6, 10am PT | Think Camp: Definitions & fit    | Not recorded                                              |
-| July 7, 2pm PT  | [[Rel8 Mid-Term Goals]]             | On YouTube                                                |
-| July 8, 10am PT | [[Rel8's Mosaic]]                                 |                                                           |
+| July 7, 2pm PT  | [[Rel8 Mid-Term Goals]]          | [On YouTube](https://youtu.be/yTlhEbNr0YM)                |
+| July 9, 1pm PT  | [[Rel8's Mosaic]]                | On YouTube                                                |
+| July 10, 1pm PT |                                  |                                                           |
 
 Brewing topics for Office Hours:
 
