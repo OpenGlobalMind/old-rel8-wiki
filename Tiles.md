@@ -1,9 +1,11 @@
 # Rel8 Tiles
-Tiles are smallish, modular code projects that we scope, fund, write, then share as open source. 
+Tiles are smallish, modular code elements that we scope, fund, write, then share as open source. 
 
-We call them Tiles because they are part of larger Mosaics (or Tapestry, if you prefer), which paint visions of where projects are headed. 
+A Project may have many Tiles. A narrative that connects several Projects is a Mosaic, essentially a vision of where the collection of Projects is headed. 
 
-A good Tile serves several projects, solving a problem they share in a general way. 
+We call them Tiles because they are part of larger [[Mosaics]] (or Tapestry, if you prefer), which paint visions of where projects are headed. 
+
+A good Tile serves several Projects, solving a problem they share in a general way. 
 
 Here's a table of our Tiles, finished and proposed:
 

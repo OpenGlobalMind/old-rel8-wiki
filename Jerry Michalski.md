@@ -8,3 +8,9 @@ Jerry curates the world's largest man-made mind map, which began when he was bri
 The data in Jerry's Brain is a great starter for "inoculating" [[The Big Fungus]], a metaphoric way of thinking about our emergent shared memory. 
 
 Jerry would like to write a next-generation book titled [[What If We Trusted You]]. 
+
+He's also created placeholder websites for initiatives that ought to exist, such as:
+
+- The Betterverse
+- The Weaving the World podcast
+- 

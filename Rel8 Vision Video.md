@@ -1,6 +1,6 @@
 # Rel8 (and OGM) Vision Video
 
-Brainstorming: 
+Brainstorming a script: 
 
 - Because extreme voices are so loud and visible, we aren't hearing from moderates. 
 - Breaking the ideas apart might help us share what we have in common and make progress.

@@ -6,7 +6,7 @@ Rel8 is born from two questions:
 
 At the very personal scale, plenty of individuals are perfecting their note-taking, but usually those notes are just for themselves. The rest of us are often duplicating those efforts and not benefiting from the possibilities of a hive mind. 
 
-At the larger organizational scale, plenty of companies and nonprofits are tktk
+At the larger organizational scale, plenty of companies and nonprofits have spent decades and millions on Knowledge Management
 
 Rel8 is a shepherding and stewarding project, not a coding project to build yet another platform. 
 
