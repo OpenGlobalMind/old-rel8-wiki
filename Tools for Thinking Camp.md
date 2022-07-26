@@ -1,6 +1,6 @@
 # Think Camp
 
- [Betaworks](https://www.betaworks.com/) is producing a small chain of events, starting with a virtual session on July 26, and leading to a longer Think Camp accelerator program that they will host this fall in NYC. [[Jerry Michalski|Jerry]] is helping them. 
+ [Betaworks](https://www.betaworks.com/) is producing a small chain of events, starting with a session on August 16, and leading to a longer Think Camp accelerator program that they will host this fall in NYC. [[Jerry Michalski|Jerry]] is helping them. 
 
 The goal of the Camp is to invest in this "Tools for Thinking" space, in several senses of the word "invest." 
 
@@ -14,5 +14,10 @@ On the largest scale, Betaworks would like to contribute to our shared informati
 
 One of our first tasks is [[Defining Tools for Thinking]]
 
-Another is to create a small posse of thinkers who like to work in public view, sharing their notes and insights, and bring their attention to this space. 
+Another is to create a small posse of thinkers who like to work in public view, sharing their notes and insights, and bring their attention to this space. Let's call this [[Scribing Tools for Thinking]]
+
+Dogfooding the tools. 
+Staging page, with links to each participant. 
+Get feedback. 
+
 
