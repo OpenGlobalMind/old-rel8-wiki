@@ -8,12 +8,15 @@ Pattern Languages are community projects that make distilled wisdom more accessi
 - [The Wise Democracy Pattern Language](https://www.wd-pl.com/) 
 - [An Open Source Pattern Language (re)generative of Commons](https://debategraph.org/Details.aspx?nid=329727)
 
-Pattern Languages tktk 
+Pattern Languages don't get enough love — or use. Let's enhance their visibility, availability, connectivity and usefulness as much as we can. 
 
 To Turbocharge Pattern Languages, we might:
 
-- Weave them together
-- "Instrument" them, where appropriate (see [[Tile - 1-2-4-All Zoom App]])
-- Lather, rinse, repeat for more wise nuggets that are instrumentable 
+- Weave existing Pattern Languages together, as appropriate
+- Make it easier to create and curate Pattern Languages
+- Get the word out about Pattern Languages
+- Program chatbots to navigate Pattern Languages and make great recommendations from them 
+- "Instrument" them, where appropriate, which means turning text into code that makes applying patterns far easier (see [[Tile - 1-2-4-All Zoom App]])
+	- Lather, rinse, repeat for more wise nuggets that are instrumentable 
 
-[Here's a link](https://bra.in/5j9NoR) to this nexus in Jerry's Brain.
+[Here's a link](https://bra.in/5j9NoR) to this nexus in [[Jerry's Brain]].
