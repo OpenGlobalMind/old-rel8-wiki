@@ -7,13 +7,15 @@ We call them Tiles because they are part of larger [[Mosaics]] (or Tapestry, if 
 
 A good Tile serves several Projects, solving a problem they share in a general way. 
 
+Here is our [[Tiles Wishlist]].
+
 Here's a table of our Tiles, finished and proposed:
 
 | Tile Name                             |  Description   | Author(s)               | Status   | Link           | Projects Served |
 | ------------------------------------- | --- | ----------------------- | -------- | -------------- | --------------- |
-| [[MemeBrain]]                         | API for Jerry's Brain    | [[Marc-Antoine Parent]] | Finished | link goes here | FJB, OGM, Rel8  |
+| [[MemeBrane]]                         | API for Jerry's Brain    | [[Marc-Antoine Parent]] | Finished | link goes here | FJB, OGM, Rel8  |
 | [[Brainy McBrainface]]                |     | [[Bentley Davis]]       | Finished | link           |                 |
-| Multiple improvements to Massive Wiki |     | [[Pete Kaminski]]       | Finished | link           |                 |
+| Multiple improvements to Massive Wiki |     | [[Pete Kaminski]]       | In Progress | [MW Roadmap](https://developer.massive.wiki/massive_wiki_roadmap)           |                 |
 | [[Tile - Rendering Excalidraw]]       |     | ??                      | Proposed |                |                 |
 | Updating JB                           |     | [[Marc-Antoine Parent]] | Proposed |                |                 |
 | [[Spider Diagrams]]                   |     | ??                      | Proposed |                |                 |
