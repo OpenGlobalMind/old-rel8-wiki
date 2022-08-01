@@ -18,7 +18,7 @@ Let's pick one we love and rename the role (and this page).
 
 Betaworks is hosting a chain of events around the topic of Tools for Thinking, starting with [this Render session](https://www.betaworks.com/event/render-tools-for-thinking) on August 16. After that session, Jerry will host weekly Zoom sessions on this topic, leading up to the Think Camp, which is designed to accelerate 8 to 10 startups, which will go through an application process. 
 
-In order to show how Tools for Thinking can actually enrich these conversations and interactions, Jerry is marshaling Scribes to participate as a bit of a [Greek Chorus](http://en.wikipedia.org/wiki/Greek_chorus) during the events. (Scribes will get complementary access to the Render session.)
+In order to show how Tools for Thinking can actually enrich these conversations and interactions, Jerry is marshaling Scribes to participate as a bit of a [Greek Chorus](http://en.wikipedia.org/wiki/Greek_chorus) during the events. (Scribes will get complimentary access to the Render session.)
 
 Unlike Greek Choruses, which apparently were intentionally homogeneous, our Scribes will be quite individualistic: each will work in the tool of their choice, curating as they prefer to. Those apps will include Roam, Miro, Kumu, TheBrain, Obsidian and An Agora. 
 
