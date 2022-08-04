@@ -1,4 +1,5 @@
 # This is [[Jerry Michalski|Jerry]]'s home page on Rel8
+
 You can discover a lot about him on [his LinkedIn page](http://www.linkedin.com/in/jerrymichalski) and [/now](https://www.jerrymichalski.com/now) page. 
 
 Some relevant bits here: 

@@ -29,5 +29,6 @@ Where possible, we will create linkages between the different sets of notes and 
 The following folks will be scribing the Tools for Thinking series:
 
 - [[Jerry Michalski]], using TheBrain, [like this](https://bra.in/5qeDMg). His notes for these events will start [here](https://bra.in/4jrLy5). 
+- [[Bill Seitz]], using his eponymous SeitzWiki and FreeMind. 
 
 If you would like to join in, please [email Jerry](mailto:sociate@gmail.com). 

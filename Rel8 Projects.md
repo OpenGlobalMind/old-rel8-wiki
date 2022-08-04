@@ -3,7 +3,7 @@
 ## [[Tools for Thinking Camp]]
 ## [[Rel8 Vision Video]]
 ## [[Unfinished 22]]
-## [[Turbocharging Pattern Languages]]
+## [[Turbocharge Pattern Languages]]
 ## [[Rel8's Future Structure]]
 ## [[Hyphal Explorations]]
 ## [[Feeding the Big Fungus]]
