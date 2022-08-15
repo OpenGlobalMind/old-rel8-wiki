@@ -35,4 +35,8 @@ The following folks will be scribing the Tools for Thinking series:
 - [[Flancian]] using [An Agora](https://anagora.org/), an app he developed himself. 
 - [[Mathew Lowry]], using his platform, [MyHub](MyHub.ai), but not live, since he is in Belgium. He will also experiment with multiple apps. 
 
+We also have a "shared brain" using [Plexus](https://plexusnotes.com/home), which you can participate in [here](http://plexus.earth/p/render). Plexus is an AI-powered community forum for all conference participants, developed by the Plexus team (founded by Davey Morse). A Shared Brain is a social network without a feed. You open to a blank page, type the thing that's on your mind, and get connected with the most related thoughts from the rest of the knowledge tech community. Again, click [here](http://plexus.earth/p/render) to get started.
+
 If you would like to join in, please [email Jerry](mailto:sociate@gmail.com). 
+
+This page is referenced in [[Resources for Render]].
