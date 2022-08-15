@@ -16,8 +16,5 @@ One of our first tasks is [[Defining Tools for Thinking]]
 
 Another is to create a small posse of thinkers who like to work in public view, sharing their notes and insights, and bring their attention to this space. Let's call this [[Scribing Tools for Thinking]]
 
-Dogfooding the tools. 
-Staging page, with links to each participant. 
-Get feedback. 
-
+We'll need [[Resources for Render]]. 
 
