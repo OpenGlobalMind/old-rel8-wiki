@@ -28,11 +28,11 @@ Where possible, we will create linkages between the different sets of notes and 
 
 The following folks will be scribing the Tools for Thinking series:
 
-- [[Jerry Michalski]], using TheBrain, [like this](https://bra.in/5qeDMg). His notes for these events will start [here](https://bra.in/4jrLy5). 
+- [[Jerry Michalski]], using TheBrain, [like this](https://bra.in/5qeDMg). His notes for these events will start [here](https://bra.in/4jrLy5), or you can see it on [[Jerry's Render Brain]]. 
 - [[Bill Seitz]], using his eponymous [SeitzWiki](http://webseitz.fluxent.com/wiki/FrontPage) and [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page). 
 - [[Jess Martin]]
 - [[Darlene Dang]], using [Edvo](https://www.edvo.com/). Her notes will start [here](https://app.edvo.com/topic/Dw11GUNDXryRqjr4DoH7). 
-- [[Flancian]] using [An Agora](https://anagora.org/), an app he developed himself. 
+- [[Flancian]] using [An Agora](https://anagora.org/), an app he developed himself. See [here](https://anagora.org/tools-for-thinking)!
 - [[Mathew Lowry]], using his platform, [MyHub](MyHub.ai), but not live, since he is in Belgium. He will also experiment with multiple apps. 
 
 We also have a "shared brain" using [Plexus](https://plexusnotes.com/home), which you can participate in [here](http://plexus.earth/p/render). Plexus is an AI-powered community forum for all conference participants, developed by the Plexus team (founded by Davey Morse). A Shared Brain is a social network without a feed. You open to a blank page, type the thing that's on your mind, and get connected with the most related thoughts from the rest of the knowledge tech community. Again, click [here](http://plexus.earth/p/render) to get started.
